@@ -1,6 +1,4 @@
-/* 
-* Bootstrap Visualization Dashboard - CSS Style Sheet 
-*/
+/* Bootstrap Visualization Dashboard - CSS Style Sheet */
 
 /* Body */
 body {
@@ -35,7 +33,7 @@ body {
   color: #213159 !important;
 }
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
-  background-color: #f04b4c !important;
+  background-color: white !important;
 }
 
 .nav-link:hover {
@@ -43,7 +41,7 @@ body {
  }
 
 .navbar-brand:hover {
-color: #f04b4c !important;
+color: rgb(160, 160, 160) !important;
 }
 
 a {
@@ -68,7 +66,7 @@ img{
 
 /* Title */
 .title {
-  color: #3d6098;
+  color: #0f50b9;
   font-family: Verdana, Arial, Helvetica, sans-serif;
   font-weight: bolder;
   padding-top: 10px;
@@ -76,7 +74,7 @@ img{
 
 /* Paragraph */
 p {
-color: gray;
+color: black;
 font-family: Arial, Helvetica, sans-serif;
 font-size: 15px;
 }
